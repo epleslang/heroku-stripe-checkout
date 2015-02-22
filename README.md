@@ -50,4 +50,4 @@ See [CONTRIBUTING](https://github.com/christophercliff/heroku-stripe-checkout/bl
 
 ## License
 
-See [LICENSE](https://github.com/christophercliff/heroku-stripe-checkout/blob/master/LICENSE.md).
+See [LICENSE](https://github.com/epleslang/heroku-stripe-checkout/blob/master/LICENSE.md).
