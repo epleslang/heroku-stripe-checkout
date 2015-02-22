@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2015 Christopher Cliff
+Copyright (c) 2015 Christopher Cliff  
 Modified work Copyright (c) 2015 Epleslang
 
 Permission is hereby granted, free of charge, to any person obtaining
