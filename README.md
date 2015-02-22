@@ -46,7 +46,7 @@ Use `input` fields to send information about the charge to the server.
 
 ## Contributing
 
-See [CONTRIBUTING](https://github.com/christophercliff/heroku-stripe-checkout/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTING](https://github.com/christophercliff/heroku-stripe-checkout/blob/master/CONTRIBUTING.md) of christophercliff's repository.
 
 ## License
 
